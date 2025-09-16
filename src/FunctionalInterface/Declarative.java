@@ -1,3 +1,4 @@
+package FunctionalInterface;
 import java.util.stream.IntStream;
 
 public class Declarative{
